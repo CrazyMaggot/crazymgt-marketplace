@@ -1,0 +1,35 @@
+{
+  "name": "crazymgt-marketplace",
+  "owner": {
+    "name": "CrazyMgt",
+    "url": "https://github.com/CrazyMaggot"
+  },
+  "metadata": {
+    "description": "Плагины CrazyMgt для Claude Code: сборка AI-агентов по методологии Context Engineering.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "crazymgt",
+      "source": "./plugins/crazymgt",
+      "description": "Agent-Creator: гриллинг по одному кликабельному вопросу → Context Engineering Pack → исполняемый агент (subagent / skill / orchestrator) → Capability Check и прогон Golden Tasks.",
+      "version": "1.0.0",
+      "author": {
+        "name": "CrazyMgt",
+        "url": "https://github.com/CrazyMaggot"
+      },
+      "homepage": "https://github.com/CrazyMaggot/crazymgt-marketplace",
+      "repository": "https://github.com/CrazyMaggot/crazymgt-marketplace",
+      "license": "MIT",
+      "keywords": [
+        "agents",
+        "subagents",
+        "context-engineering",
+        "skills",
+        "grilling",
+        "evals"
+      ],
+      "category": "productivity"
+    }
+  ]
+}

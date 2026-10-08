@@ -1,0 +1,19 @@
+{
+  "name": "crazymgt",
+  "version": "1.0.0",
+  "description": "Agent-Creator: создание, обновление и аудит AI-агентов для Claude Code по методологии Context Engineering.",
+  "author": {
+    "name": "CrazyMgt",
+    "url": "https://github.com/CrazyMaggot"
+  },
+  "homepage": "https://github.com/CrazyMaggot/crazymgt-marketplace",
+  "repository": "https://github.com/CrazyMaggot/crazymgt-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "agents",
+    "subagents",
+    "context-engineering",
+    "skills",
+    "evals"
+  ]
+}
